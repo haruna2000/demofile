@@ -1,1 +1,1 @@
-let first = "this is 1"
+console.log(first)
