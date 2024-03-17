@@ -1,1 +1,1 @@
-console.log(first)
+let number1 = 1
